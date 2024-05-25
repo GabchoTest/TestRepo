@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 text locally
+=======
+text from GitHub
+>>>>>>> a22d2a005c8f728e25f3ca5b16a06a9a2de0fc4a
