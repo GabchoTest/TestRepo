@@ -1,4 +1,7 @@
 text locally
 text from GitHub
+<<<<<<< HEAD
 
 Some description
+=======
+>>>>>>> 1fc1d93c64ffadf6437b911c77ff4655eee75755
